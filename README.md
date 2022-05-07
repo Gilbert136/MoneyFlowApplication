@@ -8,5 +8,19 @@ https://api.sandbox.treasuryprime.com/transaction
 
 The application laverage on the Microsoft dotnet core stack\
 Aspnet core 6\
-C#\
 React\
+C#
+
+Requirements for installation\
+Visual Studio Code\
+Dotnet core 6
+
+How to install the application\
+1. Clone the application on your machine
+2. Change directory to the root of the clone project
+3. Run dotnet restore
+4. Run dotnet build
+5. Run dotnet run -p MoneyFlowApplication
+
+Publishing\
+1. Run dotnet publish --configuration Release -p MoneyFlowApplication
