@@ -24,3 +24,6 @@ How to install the application\
 
 Publishing\
 1. Run dotnet publish --configuration Release -p MoneyFlowApplication
+
+Deploy to azure (Deploying to Azure with GitHub Actions tutorials for clarity)\
+https://www.youtube.com/watch?v=FeSMRFkaRIU
