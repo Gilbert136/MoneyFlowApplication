@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44455",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Hp\\source\\repos\\MoneyFlowApplication\\MoneyFlowApplication\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
