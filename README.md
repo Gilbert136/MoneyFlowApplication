@@ -12,20 +12,21 @@ React\
 C#
 
 Requirements for installation\
+Visual Studio\
 Visual Studio Code\
 Dotnet core 6
 
-How to install the application\
+How to install the application
 1. Clone the application on your machine
 2. Change directory to the root of the clone project
 3. Run dotnet restore
 4. Run dotnet build
 5. Run dotnet run -p MoneyFlowApplication
 
-Publishing\
+Publishing
 1. Run dotnet publish --configuration Release -p MoneyFlowApplication
 
-Testing\
+Testing
 1. Run/Debug the test project
 
 Deploy to azure (Deploying to Azure with GitHub Actions tutorials for clarity)\
